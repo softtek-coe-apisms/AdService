@@ -29,4 +29,4 @@ spec:
       protocol: TCP
   selector:
     app: adservice
-  type: LoadBalancer
+  type: ClusterIP
